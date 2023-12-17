@@ -5,5 +5,5 @@ data:
   num_workers: 4
 model:
   epochs: 30
-  loss_function: "CrossEntropyLoss"
   model_name: "resnet50"
+loss_function: "CrossEntropyLoss"
